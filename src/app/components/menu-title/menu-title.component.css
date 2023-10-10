@@ -1,0 +1,21 @@
+.container__menu-title{
+    text-transform: capitalize;
+    color:#fff;
+    display: flex;
+    height: 10rem;
+    background-color: #349EFF;
+    border-radius: 5px;
+    border: 4px solid black;
+    box-shadow: 15px 15px 0 black;
+    margin-bottom: 2rem;
+}
+
+
+.container__menu-title > h1{
+    /*outline: 1px solid black;*/
+    font-size: 3rem;
+    flex: 1 1 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
