@@ -13,7 +13,7 @@
 
 .container__menu-title > h1{
     /*outline: 1px solid black;*/
-    font-size: 3rem;
+    font-size: 2rem;
     flex: 1 1 auto;
     display: flex;
     justify-content: center;
